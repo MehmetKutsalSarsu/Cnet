@@ -1,0 +1,6296 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "DA14691",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                0,
+                2.54,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "DA14691",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_BGA:VFBGA-86_6x6mm_Layout10x10_P0.55mm",
+            {
+              "type": "at",
+              "content": [
+                0,
+                69.85,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.dialog-semiconductor.com/sites/default/files/da1469x_datasheet_3v1.pdf",
+            {
+              "type": "at",
+              "content": [
+                -11.43,
+                83.82,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "Multi-core BLE 5.1 SoC series, 96-MHz/32-bit ARM Cortex-M33, 128 kB ROM, 384 kB SRAM, 4 kB OTP Memory, 16 kB cache SRAM, VFBGA-86",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "BLE MCU",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "VFBGA*6x6mm*Layout10x10*P0.55mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "DA14691_1_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -21.59,
+                    49.53
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    21.59,
+                    -49.53
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    30.48,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_CLK",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    40.64,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_D0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -30.48,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_10/M33_SWDIO",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -35.56,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_12/CMAC_SWDIO",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    2.54,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSUP_RF",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    45.72,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RFIOP",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    27.94,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_CS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    33.02,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_D3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -33.02,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_11/M33_SWCLK",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -38.1,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_13/CMAC_SWCLK",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_09",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -27.94,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "~{RESET}",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    27.94,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_07",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    30.48,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_06",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    35.56,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_D2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    38.1,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPIF_D1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_30",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_27",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    33.02,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_05",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    45.72,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_00",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_31",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_29",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_08",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RF_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "D10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    35.56,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_04",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    38.1,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_03",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -30.48,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_05",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_03",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_01",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_00",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    2.54,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "XTAL32M_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "E10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    40.64,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_02",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    43.18,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_01",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSSIOQ",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "AGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -35.56,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_07",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "XTAL32M_P",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -17.78,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "XTAL32M_M",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "F10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -12.7,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V18F",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V18P",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "AGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -45.72,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -40.64,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_09",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "G10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -27.94,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_04",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_28",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_26",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_25",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_22/XTAL_32K_M",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_23/XTAL_32K_P",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "H10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "LY",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    5.08,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "no_connect",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -45.72,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "NC",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -7.62,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VBUS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V30",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -38.1,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_08",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -33.02,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_06",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_02",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "J10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "LX",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VBAT2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    5.08,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "BUCK_GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "no_connect",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -48.26,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "NC",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    12.7,
+                    53.34,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VBAT1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_14/USB_P",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P0_15/USB_M",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -43.18,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "P1_10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -7.62,
+                    -53.34,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "K10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

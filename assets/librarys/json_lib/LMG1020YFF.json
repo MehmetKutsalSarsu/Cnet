@@ -1,0 +1,864 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "LMG1020YFF",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                5.715,
+                5.715,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "LMG1020YFF",
+            {
+              "type": "at",
+              "content": [
+                6.35,
+                -6.35,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_BGA:Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelB",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.ti.com/lit/ds/symlink/lmg1020.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -19.05,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "5-V, 7-A, 5-A Low-Side GaN and MOSFET Driver For 1-ns Pulse Width, DSBGA-6",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "gan hemt gate driver low side fast rise time",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "Texas?DSBGA?6?0.855x1.255mm?Layout2x3?P0.4mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "LMG1020YFF_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -7.62,
+                    5.08
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    7.62,
+                    -5.08
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "LMG1020YFF_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    7.62,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "V_{DD}",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "OUTH",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "A2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -7.62,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "OUTL",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "B2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IN+",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IN-",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "C2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

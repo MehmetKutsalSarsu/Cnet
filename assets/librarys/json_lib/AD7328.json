@@ -1,0 +1,409 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "AD7328",
+        {
+          "type": "extends",
+          "content": [
+            "AD7327"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                10.16,
+                21.082,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "right"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "AD7328",
+            {
+              "type": "at",
+              "content": [
+                16.256,
+                19.304,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "right"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+            {
+              "type": "at",
+              "content": [
+                17.084,
+                -18.08,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.analog.com/media/en/technical-documentation/data-sheets/AD7328.pdf",
+            {
+              "type": "at",
+              "content": [
+                17.084,
+                -15.51,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "8-Channel, software selectable input range \u00b110 V, \u00b15V, \u00b12.5V, 0 V to +10 V, true bipolar input, 12-Bit plus sign, 1 MSPS SAR ADC, TSSOP-20",
+            {
+              "type": "at",
+              "content": [
+                17.084,
+                -13.716,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "Analog-Devices ADC bipolar 12-Bit SPI",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "TSSOP*4.4x6.5mm*P0.65mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

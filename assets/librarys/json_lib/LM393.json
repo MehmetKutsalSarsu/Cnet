@@ -1,0 +1,379 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "LM393",
+        {
+          "type": "extends",
+          "content": [
+            "LM2903"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                3.81,
+                3.81,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "LM393",
+            {
+              "type": "at",
+              "content": [
+                6.35,
+                -3.81,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "http://www.ti.com/lit/ds/symlink/lm393.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "cmp open collector",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* SOP*5.28x5.23mm*P1.27mm* VSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

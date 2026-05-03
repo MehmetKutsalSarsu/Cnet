@@ -1,0 +1,4711 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "RP2350A",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                17.526,
+                47.244,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "RP2350A",
+            {
+              "type": "at",
+              "content": [
+                17.526,
+                44.704,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "A microcontroller by Raspberry Pi, dual CPU architecture (ARM Cortex-M33 / RISC-V Hazard3), 150MHz, no flash, 520KB SRAM, 12 PIO state machines, VQFN-60",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "private",
+            "KLC_S4.2_DVDD",
+            "Not a standalone power converter; internal on-chip voltage regulator for digital core supply; DVDD is the digital core power supply, should be placed next to voltage regulator output.",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -2.54,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "private",
+            "KLC_S4.2_VREG_LX",
+            "Should be placed next to DVDD.",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -2.54,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "RPi Pico USB QSPI I2C UART ADC SC1509",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "*QFN*7x7mm?P0.4mm?EP3.4x3.4mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "RP2350A_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -21.59,
+                    41.91
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    21.59,
+                    -41.91
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "RP2350A_1_0",
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    12.7,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    12.7,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "39",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VREG_AVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "46",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    -45.72,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VREG_PGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "47",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -12.7,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "USB_OTP_VDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "53",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "54",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "RP2350A_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    38.1,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    35.56,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    33.02,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    30.48,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    27.94,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "XIN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -25.4,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "XOUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    12.7,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "DVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "23",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -33.02,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "SWCLK",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -35.56,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "SWDIO",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "25",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    22.86,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RUN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "26",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "27",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "28",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "29",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "30",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "31",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "32",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "33",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "34",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO23",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "35",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "36",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO25",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "37",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "38",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -30.48,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO26/ADC0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "40",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -33.02,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO27/ADC1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "41",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -35.56,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO28/ADC2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "42",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    25.4,
+                    -38.1,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO29/ADC3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "43",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "ADC_AVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "44",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IOVDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "45",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    5.08,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VREG_LX",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "48",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    2.54,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VREG_VIN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "49",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    45.72,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VREG_FB",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "50",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "USB_DM",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "51",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "USB_DP",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "52",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_SD3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "55",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_SCLK",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "56",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_SD0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "57",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_SD2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "58",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "QSPI_SD1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "59",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -25.4,
+                    5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "~{QSPI_SS}",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "60",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -45.72,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "61",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

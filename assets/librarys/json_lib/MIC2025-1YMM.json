@@ -1,0 +1,1028 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "MIC2025-1YMM",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                -7.62,
+                6.35,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "MIC2025-1YMM",
+            {
+              "type": "at",
+              "content": [
+                15.24,
+                6.35,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "right"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_SO:MSOP-8_3x3mm_P0.65mm",
+            {
+              "type": "at",
+              "content": [
+                19.05,
+                -6.35,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://ww1.microchip.com/downloads/en/DeviceDoc/MIC2025-2075-Single-Channel-Power-Distribution-Switch-DS20006030A.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "Single-channel, high side, power distribution switch, 2.7V-5.5V, Active High Output, MSOP-8",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "mosfet distribution",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "MSOP*3x3mm*P0.65mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "MIC2025-1YMM_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -7.62,
+                    5.08
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    7.62,
+                    -5.08
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "MIC2025-1YMM_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "EN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "open_collector",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "FLG",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -7.62,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "no_connect",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "NC",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "no_connect",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    7.62,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "NC",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

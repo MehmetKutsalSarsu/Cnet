@@ -1,0 +1,1424 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "CH32V003JxMx",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                -15.24,
+                7.62,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "CH32V003JxMx",
+            {
+              "type": "at",
+              "content": [
+                15.24,
+                7.62,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_SO:JEITA_SOIC-8_3.9x4.9mm_P1.27mm",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.wch-ic.com/products/CH32V003.html",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "CH32V003 series are industrial-grade general-purpose microcontrollers designed based on 32-bit RISC-V instruction set and architecture. It adopts QingKe V2A core, RV32EC instruction set, and supports 2 levels of interrupt nesting. The series are mounted with rich peripheral interfaces and function modules. Its internal organizational structure meets the low-cost and low-power embedded application scenarios. JEITA SOIC-8 (SOP-8)",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "microcontroller wch RISC-V",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "JEITA?SOIC*3.9x4.9mm*P1.27mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "CH32V003JxMx_1_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -15.24,
+                    5.08
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    15.24,
+                    -5.08
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD6/PA1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A6",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPN0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OSCI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH3_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -7.62,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR2_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPP0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OSCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH2N",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH2N_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    7.62,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1ETR_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH2_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2N_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD1/PD4/PD5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A5",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A7",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SWIO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIETR_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+# PCB-Generator Runtime Configuration
+# All agent behaviour can be tuned here without touching code.
+
+orchestrator:
+  # Maximum Scientist -> Critic feedback cycles before giving up
+  max_critic_iterations: 2
+
+agents:
+  scientist:
+    model: "gpt-5.4"
+    temperature: 0.0
+    # Maximum tool-calling rounds per design pass
+    max_tool_calls: 50
+    # Maximum deterministic-validation retries before giving up and shipping
+    # the repaired blueprint as-is (errors are logged).
+    max_validation_retries: 4
+    # Maximum pre-emission structural guard re-invocations (F1).
+    # Pre-emit catches V3/V6/V7/P-series at the cheapest point before the
+    # full retry loop fires.
+    max_pre_emit_retries: 2
+    # Cross-reference LLM-supplied pin data against the component index.
+    # Emergency kill switch — set to false to disable ground-truth pin
+    # verification and fall back to validator-only behavior.
+    verify_pins_enabled: true
+    # F1: enable the pre-emission structural guard.
+    topology_guard_enabled: true
+    # F2: attach current-state context (net connections, pin lists) to
+    # retry prompts so semantic rules have repairable signal.
+    semantic_retry_enabled: true
+    # F6: apply category-driven NC heuristics after validation.
+    nc_heuristics_enabled: true
+
+  critic:
+    # Whether floating-pin detector honours PinDef.no_connect (F5).
+    nc_aware: true
+
+  # F4 / F7 Fixer toggles live under agents.fixer below.
+
+
+  fixer:
+    model: "gpt-4o-mini"
+    temperature: 0.0
+    # "patch" = RFC 6902 JSON-Patch diffs (recommended).
+    # "rewrite" = legacy full-blueprint re-emit.
+    mode: "patch"
+    # Hard cap on total ops per FixerPlan.
+    max_ops: 40
+    # Pointer prefixes the LLM is never allowed to touch.
+    forbidden_paths:
+      - "/design_id"
+      - "/schema_version"
+      - "/metadata"
+    # Maximum tool-calling rounds per fix pass
+    max_tool_calls: 25
+    # Maximum fix -> critic retry cycles before escalating
+    max_retries: 3
+    # F4: prefer array-index JSON pointers over name-based ref-paths.
+    # Back-compat layer still accepts name-selectors.
+    index_selectors: true
+    # F7: when op-based patches exhaust max_retries, fall back to a
+    # coarser subtree-rewrite pass before escalating.
+    rewrite_fallback: true
+
+  coder:
+    model: "gpt-4o"
+    escalation_model: "gpt-4o"
+    temperature: 0.0
+    max_retries: 2
+    # ASSETS-ONLY: resolved from assets/librarys/kicad_sym relative to PROJECT_ROOT.
+    # Override discouraged; pipeline expects bundled libraries only.
+    kicad_lib_path: null
+    # Override with env; falls back to shutil.which("netlistsvg").
+    netlistsvg_path: null
+    # Resolved relative to PROJECT_ROOT when not absolute.
+    output_dir: "output"
+    # Incremental netlist cache (opt-in). When enabled, the Coder caches
+    # Stage 1 skeletons keyed by components_hash and verified fill zones
+    # keyed by (components_hash, nets_hash), and re-asks the LLM only for
+    # the delta when nets drift on an unchanged component set.
+    cache:
+      enabled: false
+      dir: "output/.cache/coder"
+      max_skeleton_entries: 64
+      max_fillzone_entries: 256
+      max_delta_nets: 5

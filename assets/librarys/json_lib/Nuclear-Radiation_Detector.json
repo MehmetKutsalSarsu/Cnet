@@ -1,0 +1,1321 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "Nuclear-Radiation_Detector",
+        {
+          "type": "pin_names",
+          "content": [
+            {
+              "type": "offset",
+              "content": [
+                0
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "V",
+            {
+              "type": "at",
+              "content": [
+                5.08,
+                1.27,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "Nuclear-Radiation_Detector",
+            {
+              "type": "at",
+              "content": [
+                5.08,
+                -1.27,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "",
+            {
+              "type": "at",
+              "content": [
+                5.08,
+                2.54,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "Generic radiation detector",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "nuclear ionising radiation sensor geiger mueller muller tube neutron counter ionization chamber",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "Nuclear-Radiation_Detector_0_0",
+            {
+              "type": "text",
+              "content": [
+                "+",
+                {
+                  "type": "at",
+                  "content": [
+                    2.032,
+                    3.175,
+                    0
+                  ]
+                },
+                {
+                  "type": "effects",
+                  "content": [
+                    {
+                      "type": "font",
+                      "content": [
+                        {
+                          "type": "size",
+                          "content": [
+                            1.27,
+                            1.27
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "Nuclear-Radiation_Detector_0_1",
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -3.302,
+                    3.81
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -2.891,
+                    3.713
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -2.794,
+                    3.302
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.54,
+                        3.556
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        3.048
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.032,
+                        2.54
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.54,
+                        3.556
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "outline"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.143,
+                        1.524
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.143,
+                        1.524
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.143,
+                        -1.524
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.143,
+                        -1.524
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        2.54
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        1.524
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    2.8194
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        -1.524
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        -2.54
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.397,
+                    -0.889
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.254
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "outline"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "Nuclear-Radiation_Detector_1_1",
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -5.334,
+                    3.81
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -4.923,
+                    3.713
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -4.826,
+                    3.302
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -4.318,
+                    2.794
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -4.729,
+                    2.891
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -4.826,
+                    3.302
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -4.318,
+                    4.826
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -3.907,
+                    4.729
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -3.81,
+                    4.318
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -4.318,
+                    2.794
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -3.907,
+                    2.697
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -3.81,
+                    2.286
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.556,
+                        2.54
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -4.064,
+                        2.032
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        1.524
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.556,
+                        2.54
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "outline"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "arc",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -3.302,
+                    3.81
+                  ]
+                },
+                {
+                  "type": "mid",
+                  "content": [
+                    -3.713,
+                    3.907
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    -3.81,
+                    4.318
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    5.08,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -5.08,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

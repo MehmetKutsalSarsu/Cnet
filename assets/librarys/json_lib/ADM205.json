@@ -1,0 +1,4322 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "ADM205",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                -14.732,
+                32.512,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "ADM205",
+            {
+              "type": "at",
+              "content": [
+                14.732,
+                32.512,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "right"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_DIP:DIP-24_W15.24mm",
+            {
+              "type": "at",
+              "content": [
+                0.254,
+                15.24,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/17659925ADM205.PDF",
+            {
+              "type": "at",
+              "content": [
+                0,
+                1.524,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "0.1 \u03bcF, 5V powered CMOS RS-232 120kb/s transceiver with 5 drivers and 5 receivers (tx/rx: 5/5), shutdown / enable pins, DIP-24 (600 mil)",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -1.27,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "UART RS232 Obsolete",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "*DIP*W15.*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "ADM205_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -15.24,
+                    30.48
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    15.24,
+                    -33.02
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        -5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.366,
+                        -5.08
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        -10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.366,
+                        -10.16
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        -15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.366,
+                        -15.24
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        -20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.366,
+                        -20.32
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.048,
+                        -25.4
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.366,
+                        -25.4
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        22.225
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        18.415
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.016,
+                        20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        22.225
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.112,
+                        20.32
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        17.145
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        13.335
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.016,
+                        15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        17.145
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.239,
+                        15.24
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        12.065
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        8.255
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.016,
+                        10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        12.065
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.239,
+                        10.16
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        6.985
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        3.175
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.016,
+                        5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        6.985
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.239,
+                        5.08
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        1.905
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        -1.905
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.016,
+                        0
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        1.905
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.794,
+                        0
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -7.239,
+                        0
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    -2.286,
+                    -5.08
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    -2.286,
+                    -10.16
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    -2.286,
+                    -15.24
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    -2.286,
+                    -20.32
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    -2.286,
+                    -25.4
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.651,
+                    20.32
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.651,
+                    15.24
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.651,
+                    10.16
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.651,
+                    5.08
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "circle",
+              "content": [
+                {
+                  "type": "center",
+                  "content": [
+                    1.651,
+                    0
+                  ]
+                },
+                {
+                  "type": "radius",
+                  "content": [
+                    0.635
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -3.175
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -6.985
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.651,
+                        -5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -3.175
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        -5.08
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -8.255
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -12.065
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.651,
+                        -10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -8.255
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        -10.16
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -13.335
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -17.145
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.651,
+                        -15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -13.335
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        -15.24
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -18.415
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -22.225
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.651,
+                        -20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -18.415
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        -20.32
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -23.495
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -27.305
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.651,
+                        -25.4
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -23.495
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.159,
+                        -25.4
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        -25.4
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        20.32
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.286,
+                        20.32
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        15.24
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.286,
+                        15.24
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        10.16
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.286,
+                        10.16
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        5.08
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.286,
+                        5.08
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        6.604,
+                        0
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        2.286,
+                        0
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "ADM205_1_0",
+            {
+              "type": "text",
+              "content": [
+                "LOGIC",
+                {
+                  "type": "at",
+                  "content": [
+                    -14.732,
+                    -30.48,
+                    0
+                  ]
+                },
+                {
+                  "type": "effects",
+                  "content": [
+                    {
+                      "type": "font",
+                      "content": [
+                        {
+                          "type": "size",
+                          "content": [
+                            1.27,
+                            1.27
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "justify",
+                      "content": [
+                        "left"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "content": [
+                "RS232",
+                {
+                  "type": "at",
+                  "content": [
+                    14.732,
+                    -30.48,
+                    0
+                  ]
+                },
+                {
+                  "type": "effects",
+                  "content": [
+                    {
+                      "type": "font",
+                      "content": [
+                        {
+                          "type": "size",
+                          "content": [
+                            1.27,
+                            1.27
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "justify",
+                      "content": [
+                        "right"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T4OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T3OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T3IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T4IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T5OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T5IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "ADM205_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T1OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "output",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T2OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    -10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R2IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "tri_state",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R2OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T2IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "T1IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "tri_state",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R1OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    -5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R1IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -38.1,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    35.56,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VCC",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    -25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R5IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "tri_state",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -25.4,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R5OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "tri_state",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R4OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    -20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R4IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    27.94,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "~{EN}",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    25.4,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "SD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "tri_state",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -20.32,
+                    -15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R3OUT",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "23",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    20.32,
+                    -15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    5.08
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "R3IN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

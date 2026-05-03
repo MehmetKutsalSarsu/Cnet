@@ -1,0 +1,5244 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "STM32L063C8Tx",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                -15.24,
+                39.37,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "STM32L063C8Tx",
+            {
+              "type": "at",
+              "content": [
+                7.62,
+                39.37,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_QFP:LQFP-48_7x7mm_P0.5mm",
+            {
+              "type": "at",
+              "content": [
+                -15.24,
+                -38.1,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "right"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.st.com/resource/en/datasheet/stm32l063c8.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "STMicroelectronics Arm Cortex-M0+ MCU, 64KB flash, 8KB RAM, 32 MHz, 1.65-3.6V, 37 GPIO, LQFP48",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "Arm Cortex-M0+ STM32L0 STM32L0x3",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "LQFP*7x7mm*P0.5mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "STM32L063C8Tx_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -15.24,
+                    -38.1
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    15.24,
+                    38.1
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "STM32L063C8Tx_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    5.08,
+                    40.64,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VLCD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_OUT_ALARM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_OUT_CALIB",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_TAMP1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_TS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_WKUP2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_OSC32_IN",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_OSC32_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    22.86,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PH0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "CRS_SYNC",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_OSC_IN",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PH1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_OSC_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    33.02,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "NRST",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    2.54,
+                    -40.64,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSSA",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    40.64,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDDA",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    33.02,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_TAMP2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_WKUP1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G1_IO1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_CTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    30.48,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM21_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G1_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_DE",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_RTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    27.94,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM21_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G1_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_TX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    25.4,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM21_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G1_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_RX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "DAC_OUT1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM22_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G2_IO1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_CK",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    20.32,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN5",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_SCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G2_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN6",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_CTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MISO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM22_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G2_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN7",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MOSI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM22_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G2_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN8",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG5",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_VLCD3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_VREF_OUT_PB0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G3_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_IN9",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG6",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_DE",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_RTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_VREF_OUT_PB1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G3_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_VLCD2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPTIM1_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G3_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C2_SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG10",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_TX",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_SCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_SYNC",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -22.86,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_EXTI11",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C2_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG11",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_RX",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G6_IO1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -40.64,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "23",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    40.64,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -25.4,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "25",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2S2_WS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG12",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_VLCD1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_DE",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_RTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G6_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -27.94,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "26",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C2_SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2S2_CK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG13",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_CTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_SCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM21_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G6_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -30.48,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "27",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C2_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2S2_MCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG14",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_DE",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPUART1_RTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_OUT_ALARM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_OUT_CALIB",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_MISO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM21_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G6_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -33.02,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "28",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2S2_SD",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG15",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RTC_REFIN",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_MOSI",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "29",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "CRS_SYNC",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_COM0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_MCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_CK",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "30",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "DAC_EXTI9",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_COM1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "RCC_MCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G4_IO1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_TX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "31",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_COM2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G4_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_RX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "32",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC_EXTI11",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP1_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MISO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G4_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_CTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_DM",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "33",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_OUT",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MOSI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G4_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_DE",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_RTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_DP",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "34",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_SWDIO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_NOE",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -40.64,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "35",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    2.54,
+                    40.64,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDD_USB",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "36",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "37",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_SWCLK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_TX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    17.78,
+                    -5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "38",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG17",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART2_RX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "39",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INM",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG7",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_SCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM2_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G5_IO1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "40",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG8",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MISO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM22_CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G5_IO2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "41",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SMBA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG9",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPTIM1_IN1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_MOSI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIM22_CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "42",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPTIM1_ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G5_IO3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_TX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "43",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "COMP2_INP",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LPTIM1_IN2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SYS_PVD_IN",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_G5_IO4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USART1_RX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "input",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    27.94,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "BOOT0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "44",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "45",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_SEG16",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TSC_SYNC",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -17.78,
+                    -17.78,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PB9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "46",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "DAC_EXTI9",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2S2_WS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "LCD_COM3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI2_NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -40.64,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "47",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -2.54,
+                    40.64,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "48",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

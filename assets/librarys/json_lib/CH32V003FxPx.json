@@ -1,0 +1,2676 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "CH32V003FxPx",
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "U",
+            {
+              "type": "at",
+              "content": [
+                -7.62,
+                17.78,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "CH32V003FxPx",
+            {
+              "type": "at",
+              "content": [
+                7.62,
+                17.78,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+            {
+              "type": "at",
+              "content": [
+                -1.27,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://www.wch-ic.com/products/CH32V003.html",
+            {
+              "type": "at",
+              "content": [
+                -1.27,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "CH32V003 series are industrial-grade general-purpose microcontrollers designed based on 32-bit RISC-V instruction set and architecture. It adopts QingKe V2A core, RV32EC instruction set, and supports 2 levels of interrupt nesting. The series are mounted with rich peripheral interfaces and function modules. Its internal organizational structure meets the low-cost and low-power embedded application scenarios.",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "microcontroller wch RISC-V",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "TSSOP*4.4x6.5mm*P0.65mm*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "CH32V003FxPx_1_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -7.62,
+                    15.24
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    7.62,
+                    -15.24
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A7",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TIETR_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A5",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A6",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH3_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    -5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "NRST",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPP1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCK_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCK_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    -10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPN0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OSCI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    -12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PA2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR2_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPP0",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OSCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH2N",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH2N_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -17.78,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "OPN1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SDA_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH1N",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "TICH1N_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    17.78,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VDD",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "NSS_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH3_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UTX_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "NSS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH4_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1BKIN_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1ETR_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH2_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1N_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1N_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCTS_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MCO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2N_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCK",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCK_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1ETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1ETR_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH1ETR_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCK_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MOSI",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MOSI_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SDA_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SDA_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCTS_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCTS_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -10.16,
+                    -5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PC7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MISO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "MISO_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH2_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URTS_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SCL_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SWIO",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH3N_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "URX_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH1_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH2N_3",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH3_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    10.16,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    2.54
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "PD3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "A4",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "AETR",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T1CH4_1",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "T2CH2_2",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UCTS",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

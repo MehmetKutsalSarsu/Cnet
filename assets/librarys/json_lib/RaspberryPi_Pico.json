@@ -1,0 +1,4712 @@
+{
+  "type": "kicad_symbol_lib",
+  "content": [
+    {
+      "type": "version",
+      "content": [
+        20251024
+      ]
+    },
+    {
+      "type": "generator",
+      "content": [
+        "kicad_symbol_editor"
+      ]
+    },
+    {
+      "type": "generator_version",
+      "content": [
+        "10.0"
+      ]
+    },
+    {
+      "type": "symbol",
+      "content": [
+        "RaspberryPi_Pico",
+        {
+          "type": "pin_names",
+          "content": [
+            {
+              "type": "offset",
+              "content": [
+                0.762
+              ]
+            }
+          ]
+        },
+        {
+          "type": "exclude_from_sim",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "in_bom",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "on_board",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "in_pos_files",
+          "content": [
+            "yes"
+          ]
+        },
+        {
+          "type": "duplicate_pin_numbers_are_jumpers",
+          "content": [
+            "no"
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Reference",
+            "A",
+            {
+              "type": "at",
+              "content": [
+                -19.05,
+                35.56,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Value",
+            "RaspberryPi_Pico",
+            {
+              "type": "at",
+              "content": [
+                7.62,
+                35.56,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "justify",
+                  "content": [
+                    "left"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Footprint",
+            "Module:RaspberryPi_Pico_Common_Unspecified",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -46.99,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Datasheet",
+            "https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -49.53,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "Description",
+            "Versatile and inexpensive microcontroller module powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2",
+            {
+              "type": "at",
+              "content": [
+                0,
+                -52.07,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_keywords",
+            "RP2350A M33 RISC-V Hazard3 usb",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "property",
+          "content": [
+            "ki_fp_filters",
+            "RaspberryPi?Pico?Common* RaspberryPi?Pico?SMD*",
+            {
+              "type": "at",
+              "content": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "type": "show_name",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "do_not_autoplace",
+              "content": [
+                "no"
+              ]
+            },
+            {
+              "type": "hide",
+              "content": [
+                "yes"
+              ]
+            },
+            {
+              "type": "effects",
+              "content": [
+                {
+                  "type": "font",
+                  "content": [
+                    {
+                      "type": "size",
+                      "content": [
+                        1.27,
+                        1.27
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "RaspberryPi_Pico_0_1",
+            {
+              "type": "rectangle",
+              "content": [
+                {
+                  "type": "start",
+                  "content": [
+                    -19.05,
+                    34.29
+                  ]
+                },
+                {
+                  "type": "end",
+                  "content": [
+                    19.05,
+                    -31.75
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0.254
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "background"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -5.08,
+                        34.29
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.81,
+                        33.655
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.81,
+                        31.75
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.175,
+                        31.75
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.429,
+                        32.766
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.429,
+                        33.02
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.175,
+                        33.02
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.175,
+                        30.48
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.921,
+                        30.48
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -2.921,
+                        30.734
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.175,
+                        31.75
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.905,
+                        33.02
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.905,
+                        30.48
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -3.175,
+                        31.75
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        34.29
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.27,
+                        33.655
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.27,
+                        31.75
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        -1.905,
+                        31.75
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "polyline",
+              "content": [
+                {
+                  "type": "pts",
+                  "content": [
+                    {
+                      "type": "xy",
+                      "content": [
+                        0,
+                        -31.75
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.27,
+                        -31.115
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        1.27,
+                        -24.13
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        18.415,
+                        -24.13
+                      ]
+                    },
+                    {
+                      "type": "xy",
+                      "content": [
+                        19.05,
+                        -22.86
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "stroke",
+                  "content": [
+                    {
+                      "type": "width",
+                      "content": [
+                        0
+                      ]
+                    },
+                    {
+                      "type": "type",
+                      "content": [
+                        "default"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "fill",
+                  "content": [
+                    {
+                      "type": "type",
+                      "content": [
+                        "none"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "symbol",
+          "content": [
+            "RaspberryPi_Pico_1_1",
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM0_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM0_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "passive",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI0_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "GND_IN",
+                    "power_in",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM1_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM1_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO4",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM2_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO5",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM2_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI0_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    0,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO6",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM3_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -2.54,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO7",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM3_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -5.08,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO8",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM4_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -7.62,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO9",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM4_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI1_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -10.16,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO10",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM5_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -12.7,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO11",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM5_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -15.24,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO12",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM6_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -17.78,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO13",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM6_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI1_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO14",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM7_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    -22.86,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO15",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM7_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO16",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM0_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    10.16,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO17",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM0_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI0_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "23",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO18",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "24",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM1_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    5.08,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO19",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "25",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM1_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO20",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "26",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "CLOCK_GPIN0",
+                    "input",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM2_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    0,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO21",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "27",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "CLOCK_GPOUT0",
+                    "output",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM2_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{SPI0_CSn}",
+                    "bidirectional",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "28",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -2.54,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO22",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "29",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "CLOCK_GPIN1",
+                    "input",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM3_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI0_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    22.86,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "RUN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "30",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{RESET}",
+                    "passive",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -12.7,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO26_ADC0",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "31",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC0",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "GPIO26",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM5_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_SCK",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_CTS",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_EN",
+                    "output",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -15.24,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO27_ADC1",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "32",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC1",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "GPIO27",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C1_SCL",
+                    "bidirectional",
+                    "clock"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM5_B",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART1_RTS",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_OVCUR_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -22.86,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "AGND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "33",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "GND",
+                    "passive",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "bidirectional",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -17.78,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GPIO28_ADC2",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "34",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "ADC2",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "GPIO28",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "I2C0_SDA",
+                    "bidirectional",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "PWM6_A",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "SPI1_RX",
+                    "input",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "UART0_TX",
+                    "output",
+                    "line"
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "USB_VBUS_DET",
+                    "input",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    22.86,
+                    -7.62,
+                    180
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "ADC_VREF",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "35",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    5.08,
+                    38.1,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "3V3",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "36",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -22.86,
+                    20.32,
+                    0
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "3V3_EN",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "37",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "~{3V3_DISABLE}",
+                    "passive",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "passive",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    -35.56,
+                    90
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "hide",
+                  "content": [
+                    "yes"
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "GND",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "38",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_in",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    -5.08,
+                    38.1,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VSYS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "39",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "VSYS_OUT",
+                    "power_out",
+                    "line"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pin",
+              "content": [
+                "power_out",
+                "line",
+                {
+                  "type": "at",
+                  "content": [
+                    0,
+                    38.1,
+                    270
+                  ]
+                },
+                {
+                  "type": "length",
+                  "content": [
+                    3.81
+                  ]
+                },
+                {
+                  "type": "name",
+                  "content": [
+                    "VBUS",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "number",
+                  "content": [
+                    "40",
+                    {
+                      "type": "effects",
+                      "content": [
+                        {
+                          "type": "font",
+                          "content": [
+                            {
+                              "type": "size",
+                              "content": [
+                                1.27,
+                                1.27
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "alternate",
+                  "content": [
+                    "VBUS_IN",
+                    "power_in",
+                    "line"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "embedded_fonts",
+          "content": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

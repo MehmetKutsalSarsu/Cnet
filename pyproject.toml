@@ -1,0 +1,72 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cnet"
+version = "0.1.0"
+description = "CNET — multi-agent text-to-netlist pipeline (Clarify → Scientist → Critic → Fixer → Coder)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Mehmet Kutsal Sarsu" }]
+keywords = ["eda", "netlist", "skidl", "kicad", "llm", "langchain"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Electronic Design Automation (EDA)",
+]
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "langchain-core",
+    "langchain-google-vertexai",
+    "langchain-google-genai",
+    "pydantic",
+    "python-dotenv",
+    "skidl",
+    "openai",
+    "networkx",
+    "jsonpatch>=1.33",
+    "PyYAML",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "black",
+    "ruff",
+    "isort",
+]
+
+[project.scripts]
+cnet = "src.agents.orchestrator.orchestrator:main"
+
+[project.urls]
+Homepage = "https://github.com/mehmetkutsalsarsu/CNET"
+Issues = "https://github.com/mehmetkutsalsarsu/CNET/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+exclude = ["assets*", "skidl-master*", "scripts*", "prompts*", "config*", "tests*"]
+
+[tool.setuptools.package-data]
+"*" = ["*.txt", "*.yaml", "*.json"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "unit: unit tests",
+    "integration: integration tests",
+]
