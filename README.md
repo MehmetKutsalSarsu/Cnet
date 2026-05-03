@@ -826,8 +826,8 @@ Tested on macOS with Python 3.13. Should work on Linux. Untested on Windows.
 
 ```bash
 # 1. Clone
-git clone https://github.com/mehmetkutsalsarsu/CNET.git
-cd CNET
+git clone https://github.com/mehmetkutsalsarsu/Cnet.git
+cd Cnet
 
 # 2. Virtual env (required on Homebrew Python — PEP 668)
 python3 -m venv .venv
