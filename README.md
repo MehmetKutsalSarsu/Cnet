@@ -37,12 +37,6 @@ fabricate.
   between USB and battery power, feeding into a BD33GA5WEFJ 3.3V LDO to power the 
   system. Ensure a common ground.
   ```
-
-  ### Schematic
-  
-
-  ![example schematic](Examples/example.svg)
-
   
 
    ### Blueprint
