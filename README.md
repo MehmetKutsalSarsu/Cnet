@@ -24,6 +24,8 @@ You describe a circuit in plain English. CNET runs it through a multi-agent pipe
 and produces a KiCad netlist you can open, review, and (after manual verification) 
 fabricate.
 
+**Do not try some complex circut description** probably will fail
+
 
 <details>
   <summary>Example</summary>
