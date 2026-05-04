@@ -4,7 +4,7 @@ A multi-agent LLM pipeline that converts natural-language circuit descriptions i
 
 ---
 
->## ⚠️ Beta software — do not trust the output
+>## ⚠️ Beta project — do not trust the output
 >
 >**This is experimental, hobby-grade software.** The pipeline can and does produce netlists that are wrong: shorted rails, missing decoupling, mis-pinned ICs, hallucinated component values, regulators wired backward, ESD/safety parts in the wrong place, ground loops, and other failures that the Critic stage does not always catch.
 >
